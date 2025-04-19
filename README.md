@@ -49,7 +49,7 @@ recipe_shulkerbox<br>
 
 ore-detector-datapack<br>
 幫助玩家找尋礦物<br>
-
+https://www.planetminecraft.com/data-pack/minecraft-but-i-have-ore-detector/
 
 
 
