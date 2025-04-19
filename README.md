@@ -38,8 +38,17 @@ UnobtrusiveArmors-2-2<br>
 使裝備的面積減少
 
 
+其他可選的資料包：
 
+Multitool<br>
+多用途工具，減少切換工具的時間<br>
+https://modrinth.com/datapack/multitool/version/4.1.2
 
+recipe_shulkerbox<br>
+可以用皮革＋箱子合成潜影盒，給玩家用作冒險背包<br>
+
+ore-detector-datapack<br>
+幫助玩家找尋礦物<br>
 
 
 
